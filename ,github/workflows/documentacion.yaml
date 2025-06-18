@@ -9,7 +9,8 @@ jobs:
 
     steps:
     - name: Saludar
-      uses: angelica-alonso/hello-world-action-by-angelica@v1.1
+      uses: ANGELICA-ALONSO/hello-world-javascript-action@v1.1
+      
       with:
         who-to-greet: Angelica Alonso
         
